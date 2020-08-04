@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopupWindowSpinner</string>
+
+    <string-array name="spinner_data">
+        <item>android</item>
+        <item>kotlin</item>
+        <item>flutter</item>
+        <item>React</item>
+    </string-array>
+
+</resources>
