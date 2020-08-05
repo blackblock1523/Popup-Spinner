@@ -3,16 +3,16 @@
 ## Gradle
 ```
 allprojects {
-	repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
+    repositories {
+    	...
+    	maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
 ```
 dependencies {
-    implementation 'com.github.blackblock1523:Popup-Spinner:1.0.0'
+    implementation 'com.github.blackblock1523:Popup-Spinner:v1.0'
 }
 ```
 
